@@ -9,5 +9,4 @@ class LeadsWorker
       first_name: lead[1], last_name: lead[2])
     end
   end
-
 end
